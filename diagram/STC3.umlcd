@@ -1,0 +1,27 @@
+{
+  "cells": [
+    {
+      "angle": 0,
+      "async": {
+        "batchSize": 500
+      },
+      "attrs": {},
+      "id": "paperCell",
+      "namespace": "STC3",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "queries": [],
+      "runtimeClass": "cronos.widgets.joint.uml.Paper",
+      "size": {
+        "height": 0,
+        "width": 0
+      },
+      "type": "basic.Rect",
+      "z": 1
+    }
+  ],
+  "selectedGroup": "",
+  "groups": []
+}

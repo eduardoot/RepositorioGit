@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><Context>
+    <Resource accessToUnderlyingConnectionAllowed="true" cloudDatabaseKey="" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" logAbandoned="true" name="jdbc/main" password="usr_stc" profile="DEV" removeAbandoned="false" removeAbandonedTimeout="60" schema="" type="javax.sql.DataSource" url="jdbc:sqlserver://Aldebaran:1826;databaseName=sqlHomMaker" username="usr_stc"/>
+    <Profile value="DEV"/>
+    <Profile value="PROD"/>
+    <Resource accessToUnderlyingConnectionAllowed="false" cloudDatabaseKey="" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" logAbandoned="true" name="jdbc/STC31" password="usr_stc" profile="DEV" removeAbandoned="false" removeAbandonedTimeout="60" schema="" type="javax.sql.DataSource" url="jdbc:sqlserver://Aldebaran:1433;databaseName=sqlDesMaker" username="usr_stc"/>
+</Context>
